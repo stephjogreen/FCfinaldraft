@@ -56,15 +56,16 @@ header {
 }
 
 body {
- background-color: #F7F7F7;
+ background-color: #3C3737;
  border: 0px solid #fff;
  margin: 100px;
  font-family: 'SF Pro Text', Helvetica, Arial, sans-serif;
 }
 
 .container {
+	background-color: #F7F7F7;
 	width: 375px;
-	height: 850px;
+	height: 737px;
 }
 
 img {
